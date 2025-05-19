@@ -7,8 +7,8 @@ We implemented different types of stacks and queues using two basic data structu
 
 ## 👨‍💻 Group Members
 
-- [Your Name]  
-- [Partner's Name (e.g. Alena Vodopianova)]
+- [Alena Vodopianova]  
+- [Oleh Haievyi]
 
 ---
 
