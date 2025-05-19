@@ -7,8 +7,8 @@ We implemented different types of stacks and queues using two basic data structu
 
 ## 👨‍💻 Group Members
 
-- [Alena Vodopianova]  
-- [Oleh Haievyi]
+- Alena Vodopianova  
+- Oleh Haievyi
 
 ---
 
